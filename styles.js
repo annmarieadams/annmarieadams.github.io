@@ -534,9 +534,9 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\annma\OneDrive\Desktop\Angular Projects\PersonalWebsite\src\styles.css */"./src/styles.css");
-__webpack_require__(/*! C:\Users\annma\OneDrive\Desktop\Angular Projects\PersonalWebsite\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! C:\Users\annma\OneDrive\Desktop\Angular Projects\PersonalWebsite\node_modules\ionicons\dist\scss\ionicons.scss */"./node_modules/ionicons/dist/scss/ionicons.scss");
+__webpack_require__(/*! F:\Coding Projects Complete\PersonalWebsite\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! F:\Coding Projects Complete\PersonalWebsite\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! F:\Coding Projects Complete\PersonalWebsite\node_modules\ionicons\dist\scss\ionicons.scss */"./node_modules/ionicons/dist/scss/ionicons.scss");
 
 
 /***/ })

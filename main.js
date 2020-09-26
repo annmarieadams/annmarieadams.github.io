@@ -544,8 +544,9 @@ __webpack_require__.r(__webpack_exports__);
 class PortfolioCardService {
     constructor() {
         this.cards = [
-            new _portfolio_card_model__WEBPACK_IMPORTED_MODULE_0__["PortfolioCard"]('Package Tracker', 'A script that uses web scraping and an SMS email gateway to alert the user to be ready to sign for their package.', 'https://www.emoji.co.uk/files/apple-emojis/objects-ios/713-package.png', 'Python'),
-            new _portfolio_card_model__WEBPACK_IMPORTED_MODULE_0__["PortfolioCard"]('RmP Laspo Chabot', 'A chrome extension that allows the user to search for a professor at Las Positas College or Chabot College on the website Rate My Professors by highlighting a professor’s name on the context menu', 'https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1486710759/iitmle0wnvqbpl068vrb.jpg', 'Javascript')
+            new _portfolio_card_model__WEBPACK_IMPORTED_MODULE_0__["PortfolioCard"]('Package Tracker', 'A script that uses web scraping and an SMS email gateway to alert the user to be ready to sign for their package.', './../assets/box.png', 'Python'),
+            new _portfolio_card_model__WEBPACK_IMPORTED_MODULE_0__["PortfolioCard"]('RmP Laspo Chabot', 'A chrome extension that allows the user to search for a professor at Las Positas College or Chabot College on the website Rate My Professors by highlighting a professor’s name on the context menu', './../assets/rmp.png', 'Javascript'),
+            new _portfolio_card_model__WEBPACK_IMPORTED_MODULE_0__["PortfolioCard"]('Binary to Hex Game', 'A game made in Pygame based off Flippy Bit where the player converts hexadecimal numbers to binary numbers.', './../assets/game.png', 'Python')
         ];
     }
     getCards() {
@@ -754,7 +755,7 @@ _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__["platformBrowser"]().boot
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\annma\OneDrive\Desktop\Angular Projects\PersonalWebsite\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! F:\Coding Projects Complete\PersonalWebsite\src\main.ts */"./src/main.ts");
 
 
 /***/ }),
